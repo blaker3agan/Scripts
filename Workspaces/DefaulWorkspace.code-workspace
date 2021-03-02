@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Powershell",
+			"path": "..\\Powershell"
+		},
+		{
+			"name": "Python",
+			"path": "..\\Python"
+		},
+		{
+			"name": "Workspaces",
+			"path": "."
+		}
+	]
+}
