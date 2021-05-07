@@ -1,4 +1,4 @@
-
+# This script will allow you to change all files in a directory from txt to pdf files.
 from fpdf import FPDF
 import os, glob
 os.chdir("C:\Test\PDFs")  
