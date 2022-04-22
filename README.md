@@ -1,2 +1,1 @@
-# Scripting
- Scripting Practice
+# Scrips
