@@ -1,1 +1,1 @@
-# Scrips
+# Scripts
